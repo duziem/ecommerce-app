@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Vitanet-Ecommerce-App'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_60EBBB6FEEF2434698D0D733E666EDCF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73FC046A107B4AD89245871DB4B47E08 }}
           package: .
